@@ -1,5 +1,5 @@
 Print "Hello World to all!"
 
-Print "Hello Python!"
+Print "Hello Python!!!"
 
-Print "Good night!"
+Print "Good night people!"
