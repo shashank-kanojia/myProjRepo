@@ -1,4 +1,4 @@
 
 Print "Hello Python"
 
-Print "Good night people!!!"
+Print "Good night!!!"
